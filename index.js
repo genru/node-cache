@@ -125,5 +125,5 @@ function Cache () {
   };
 }
 
-module.exports = new Cache();
-module.exports.Cache = Cache;
+module.exports = Cache;
+//module.exports.Cache = Cache;
