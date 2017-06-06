@@ -126,4 +126,4 @@ function Cache () {
 }
 
 module.exports = Cache;
-//module.exports.Cache = Cache;
+module.exports.Cache = Cache;
